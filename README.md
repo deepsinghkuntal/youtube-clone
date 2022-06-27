@@ -5,3 +5,7 @@ fetch real data from youtube. It's look like youtube. All the video data is comi
 We have working search bar also which redirects user to official youtube search page. 
 And whenever user click on video card, he/she will be redirect to youtube's official video page.
 
+
+# Screenshots
+
+![App Screenshots](https://github.com/deepsinghkuntal/youtube-clone/blob/main/Screenshot%20(11).png)
